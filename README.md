@@ -1,6 +1,6 @@
 Circle_Hero
 
-Empower your aim with Circle Hero, a simple aim trainer written completely in java.
+Empower your aim with Circle Hero, a simple aim trainer written completely in Java.
 
 Installation and Execution:  
 1. Download and extract the zip file.
